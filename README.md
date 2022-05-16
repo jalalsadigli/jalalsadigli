@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalalsadigli
 - 👀 I’m interested in Hardware design and programming
-- 🌱 I’m currently practicing Solidowkrs, Altium Designer and C.
+- 🌱 I’m currently practicing Solidoworks, Altium Designer and C.
 - 💞️ I’m looking to collaborate on Hardware development
 - 📫 Reach me via jalalsadigli@gmail.com
 
